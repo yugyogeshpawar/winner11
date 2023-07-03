@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useState } from "react";
 import Select from "../select/Select";
 import uk from "/public/img/header/uk.png";
-import logo from "/public/img/logo/logo.png";
+import logo from "/public/img/logo/logo2.png";
 
 const lang = [
   { id: 1, name: "En" },
